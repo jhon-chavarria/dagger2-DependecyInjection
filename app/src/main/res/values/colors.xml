@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="sky_blue_up">#2bb1c6</color>
+    <color name="sky_blue_down">#046783</color>
+    <color name="login_text_color">#00819b</color>
+    <color name="list_line_separator">#007393</color>
+    <color name="category">#91928e</color>
+    <color name="toolbar_bottom">#c3c4c0</color>
+
+</resources>
