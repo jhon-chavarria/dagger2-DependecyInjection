@@ -38,18 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GeneralActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/clov3rlabs/dependencyinjection/activities/GeneralActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AndroidModules.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/clov3rlabs/dependencyinjection/AndroidModules.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -1640,6 +1628,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/clov3rlabs/dependencyinjection/utilities/SettingsUtil.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/clov3rlabs/dependencyinjection/utilities/DeviceUtil.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/clov3rlabs/dependencyinjection/utilities/ResourcesUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/clov3rlabs/dependencyinjection/fragments/FirstFragment.java" />
       </list>
     </option>
   </component>
@@ -2145,7 +2134,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="24" width="1203" height="772" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2409,13 +2398,6 @@
             <element signature="e#261#286#0" expanded="true" />
             <element signature="e#411#428#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/clov3rlabs/dependencyinjection/fragments/FirstFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
